@@ -11,12 +11,13 @@ body, html {
     background-size: cover;
     position: relative;
     
+    
 }
 .titulo-text {
-    text-align: left;
-    position: center;
-    font-size: 35px;
-    color:white;
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    padding: 10px;
   }
 
   .texto-2{
